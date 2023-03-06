@@ -23,8 +23,8 @@ THIS IS is done in the Global tool configuration tab in jenkins
    <server>
       <id>nexus</id>
       <username>admin</username>
-       <password>Zion2020</password>
+       <password>devops2023</password>
     </server>
 
 
-    /var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven3.9.0/conf
+    /var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/joanna3.9.0/conf

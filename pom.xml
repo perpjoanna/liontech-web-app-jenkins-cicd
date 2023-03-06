@@ -95,14 +95,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>LION TECH ACADEMY Releases Nexus Repository</name>
-	      <url>http://3.98.138.118:8081/repository/app2demo-release/</url>
+	      <name>admin</name>
+	      <url>http://localhost:8081/repository/joanna-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>LION TECH ACADEMY Snapshot Nexus Repository </name>
-	      <url>http://3.98.138.118:8081/repository/app2demo-snapshot/</url>
+	      <name>admin</name>
+	      <url>http://localhost:8081/repository/joanna2_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
